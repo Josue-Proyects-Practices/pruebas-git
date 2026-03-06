@@ -2,7 +2,7 @@
 
 const writeSomething = () => {
 
-    console.log("hola")
+    console.log("hola Josué Abreu")
 }
 
 writeSomething();
